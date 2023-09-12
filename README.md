@@ -9,7 +9,8 @@ At the moment, I'm learning ML Algoritms.
 
 I'll collaborate on anything, honestly.
 
-You can reach me at olsdattersynnove@gmail.com
+You can reach me at olsdattersynnove@gmail.com.
+
 If I don't respond soon after, I'm not dead, I just don't check my email so often.
 
 <!---
