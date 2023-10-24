@@ -14,7 +14,7 @@ You can reach me at olsdattersynnove@gmail.com.
 
 If I don't respond soon after, I'm not dead, I just don't check my email so often.
 
-Here's my StackOverflow profile: <a href="https://stackoverflow.com/users/21604162/synn%c3%b8ve" target="_blank">https://stackoverflow.com/</a>
+Here's my StackOverflow profile: https://stackoverflow.com/users/21604162/synn%c3%b8ve
 
 ```
 int answerToLifeTheUniverseAndEverything = 42;
