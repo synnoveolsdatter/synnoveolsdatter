@@ -1,9 +1,10 @@
-Hi, I’m Synnøve Olsdatter, I know six programming languages:
+Hi, I’m Synnøve Olsdatter, I know 7 programming languages:
  - Python
  - JS/TS
  - Java
  - C
  - C#
+ - Go
  - x86-64 Assembly
 
 At the moment, I'm learning ML Algoritms.
