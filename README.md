@@ -9,7 +9,7 @@ Hi, I’m Synnøve Olsdatter, I know 7 programming languages:
 
 At the moment, I'm learning ML Algoritms.
 
-I'll collaborate on anything, honestly.
+To be honest, a lot of these projects are just here because I wanna see what colour github gives to the different languages I use.
 
 You can reach me at olsdattersynnove@gmail.com.
 
