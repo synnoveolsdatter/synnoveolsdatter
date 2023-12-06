@@ -18,6 +18,7 @@ If I don't respond soon after, I'm not dead, I just don't check my email so ofte
 
 Here's my StackOverflow profile: https://stackoverflow.com/users/21604162/synn%c3%b8ve
 
+I recommend checking my <a href="https://github.com/synnoveolsdatter?tab=stars">stars</a> tab for projects I feel are worthy of your attention.
 ```
 int answerToLifeTheUniverseAndEverything = 42;
 ```
