@@ -7,8 +7,7 @@ Hi, I’m Synnøve Olsdatter, I know 7 programming languages:
  - Go
  - x86-64 Assembly
 
-At the moment, I'm making a project to prove that AI doesn't exist yet.
-`TODO: change when finished`
+Right now, I'm *trying* to learn Rust.
 
 To be honest, a lot of these projects are just here because I wanna see what colour github gives to the different languages I use.
 
