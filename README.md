@@ -2,9 +2,9 @@ Hi, I’m Synnøve Olsdatter, I know 7 programming languages:
  - Python
  - JS/TS
  - Java
- - C
  - C#
  - Go
+ - C
  - x86-64 Assembly
 
 Right now, I'm *trying* to learn Rust.
