@@ -8,7 +8,7 @@ I'm Synnove Olsdatter (she/they), a student enamoured with computers and all thi
 ## Tech Stack
 
 ### Proficient Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,py,bash,cs,java,go,c,asm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,py,bash,cs,java,go,c,asm&perline=3)](https://skillicons.dev)
 
 ### Apps
 [![Known Apps](https://skillicons.dev/icons?i=sublime,clion,vim)](https://skillicons.dev)
@@ -30,6 +30,8 @@ I don't check my email very often, so don't expect a response too soon.
 Here's my StackOverflow profile: https://stackoverflow.com/users/21604162/synn%c3%b8ve
 
 I recommend checking my <a href="https://github.com/synnoveolsdatter?tab=stars">stars</a> tab for projects I feel are worthy of your attention.
+
+NOTE: I know Assembly as well, I just couldn't find an icon for it lol.
 
 ----------------------------------------------------------------------------------------------------------------
 ```java
