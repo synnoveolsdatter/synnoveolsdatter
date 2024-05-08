@@ -11,7 +11,7 @@ I'm Synnove Olsdatter (she/they), a student enamoured with computers and all thi
 [![Languages](https://skillicons.dev/icons?i=html,js,css,py,bash,cs,java,go,c,asm)](https://skillicons.dev)
 
 ### Apps
-[![Known Apps](https://skillicons.dev/icons?i=sublime,intellij,clion)](https://skillicons.dev)
+[![Known Apps](https://skillicons.dev/icons?i=sublime,clion,vim)](https://skillicons.dev)
 
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=linux,debian,apple)](https://skillicons.dev)
