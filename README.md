@@ -32,7 +32,7 @@ Here's my StackOverflow profile: https://stackoverflow.com/users/21604162/synn%c
 I recommend checking my <a href="https://github.com/synnoveolsdatter?tab=stars">stars</a> tab for projects I feel are worthy of your attention.
 
 ----------------------------------------------------------------------------------------------------------------
-```
+```c
 int answerToLifeTheUniverseAndEverything = 42;
 ```
 
