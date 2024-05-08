@@ -19,7 +19,7 @@ I'm Synnove Olsdatter (she/they), a student enamoured with computers and all thi
 ----------------------------------------------------------------------------------------------------------------
 
 ### Currently Learning
-[![Currently Learning](https://skillicons.dev/icons?i=haxe,rust,zig)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=haxe,cpp,rust,zig)](https://skillicons.dev)
 
 ----------------------------------------------------------------------------------------------------------------
 
