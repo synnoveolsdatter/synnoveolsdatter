@@ -9,7 +9,6 @@ I'm Synnove Olsdatter (she/they), a student enamoured with computers and all thi
 
 ### Proficient Languages
 [![Languages](https://skillicons.dev/icons?i=html,css,js,py,bash,cs,java,go,c,asm&perline=3)](https://skillicons.dev)
-
 ### Apps
 [![Known Apps](https://skillicons.dev/icons?i=sublime,clion,vim)](https://skillicons.dev)
 
