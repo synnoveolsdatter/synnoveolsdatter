@@ -23,7 +23,8 @@ I'm Synnove Olsdatter (she/they). I'm a student, and I like programming a lot. B
 ----------------------------------------------------------------------------------------------------------------
 
 <!--To be honest, a lot of these projects are just here because I wanna see what colour github gives to the different languages I use.-->
-You can reach me at olsdattersynnove@gmail.com.
+You can reach me at olsdattersynnove@gmail.com
+Or synnove9200 on discord
 I don't check my email very often, so don't expect a response too soon.
 
 Here's my StackOverflow profile: https://stackoverflow.com/users/21604162/synn%c3%b8ve
