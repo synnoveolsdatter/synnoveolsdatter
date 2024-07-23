@@ -8,7 +8,7 @@ I'm Synnove Olsdatter (she/they). I'm a student, and I like programming a lot. B
 ## Tech Stack
 
 ### Proficient Languages
-[![Languages](https://skillicons.dev/icons?i=html,rust,js,py,bash,cs,java,go,c&perline=3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,js,py,bash,cs,java,go,rust,c&perline=3)](https://skillicons.dev)
 ### Apps
 [![Known Apps](https://skillicons.dev/icons?i=clion,sublime,vim)](https://skillicons.dev)
 
