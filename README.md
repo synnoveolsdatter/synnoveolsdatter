@@ -1,5 +1,6 @@
 # Hi, I’m Synnøve Olsdatter!
-I'm Synnove Olsdatter (she/they). I'm a student, and I like programming a lot. Backend is my strongsuit, but I can do frontend tasks if required.
+I'm Synnove Olsdatter (she/her). I'm a student, and I like programming a lot. Backend is my strongsuit, but I can do frontend tasks if required.
+(Heads up, I'm not very active on github but I'm still working on projects in my own time)
 
 [![synnoveolsdatter's GitHub stats](https://github-readme-stats.vercel.app/api?username=synnoveolsdatter&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
